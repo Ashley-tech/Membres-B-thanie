@@ -74,7 +74,7 @@ CREATE TABLE `lienparente` (
 --
 
 INSERT INTO `lienparente` (`id_lien`, `libelle`, `definition`, `sexe_particulier`) VALUES
-(1, 'Adutérin', 'Se dit d\'un enfant né d\'une union extraconjugale', NULL),
+(1, 'Adultérin', 'Se dit d\'un enfant né d\'une union extraconjugale', NULL),
 (2, 'Affinité', 'Parenté par alliance. C\'est le contraire de consanguin. Epouse, pour un veuf, une cousine de sa première femme nécessitait sous l\'Ancien régime d\'obtenir de l\'évêque une dispense d\'affinité.', NULL),
 (3, 'Agnatique', 'Qui se rapporte aux agnats. Tous portent le même patronyme. Généalogie de père en fils. On ne s\'occupe que de la branche paternelle de chaque individu.', NULL),
 (4, 'Aïeul(e)', 'Sous l\'ancien régime signifie. Grand-père ou grand-mère', NULL),
